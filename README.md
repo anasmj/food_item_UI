@@ -1,7 +1,7 @@
 # Foodie
 
 
-![main](https://user-images.githubusercontent.com/48752942/147383858-f7dc35ad-c6ea-41ac-8ad3-2053fdc0cfb5.jpg)
+![main](https://user-images.githubusercontent.com/48752942/147383867-6fc79a86-a5f1-44dc-a186-5e67a293a44e.jpg)
 
 
 ![details](https://user-images.githubusercontent.com/48752942/147383843-cd10f3dd-c14a-47d4-ae7f-7a13b8a81dfb.jpg)
