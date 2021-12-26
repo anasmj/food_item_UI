@@ -42,9 +42,9 @@ class ChooseDinnerScreen extends StatelessWidget {
             ),
             const Padding(
               padding:
-                  EdgeInsets.only(top: 12, left: 8.0, right: 230, bottom: 20),
+                  EdgeInsets.only(top: 12, left: 8.0, right: 50, bottom: 20),
               child: Text(
-                'What do want for dinner? 🍽',
+                'What do you want for dinner? 🍽',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 24,

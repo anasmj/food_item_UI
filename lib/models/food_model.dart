@@ -28,7 +28,8 @@ List<Food> foodItems = [
     imageUrl: 'assets/images/food_image/burgur.png',
     foodName: 'Burgur',
     foodType: 'fast food',
-    description: 'delicious food',
+    description:
+        'Our goal at Burgur is to make the best darn burger you ever had. We know how to do this, too. With fresh, wholesome ingredients and lots of TLC. From the patties we grill to the buns we serve them on - your best burger is our priority.',
     price: 120,
   ),
   Food(

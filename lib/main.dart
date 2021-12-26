@@ -13,8 +13,7 @@ class Foodie extends StatelessWidget {
   Widget build(BuildContext context) => MaterialApp(
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
-            //scaffoldBackgroundColor: appBackgroundColor,
-            scaffoldBackgroundColor: Color(0xFFD6EAF8),
+            scaffoldBackgroundColor: appBackgroundColor,
           ),
           //home: const FoodDetails(),
           initialRoute: '/',
